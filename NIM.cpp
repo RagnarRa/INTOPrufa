@@ -31,7 +31,6 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-	cout << "Ragnar her ad breyta einhverju." << endl;
 	int val;
 	do
 	{
